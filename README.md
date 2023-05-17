@@ -1,2 +1,3 @@
 # portfolio
-truecoders project
+# truecoders project
+## what I have learned
